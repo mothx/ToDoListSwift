@@ -51,7 +51,7 @@ class FirstViewController: UIViewController, UITableViewDelegate, UITableViewDat
                 var stringStored = storedToDoItems as Array <String!>
                 toDoItems.append(stringStored[i] as NSString)
                 
-                //Continue at 32:20 at udemy lesson 482
+                //Continue at 32:20 at udemy lesson 4825
             }
             
         }
